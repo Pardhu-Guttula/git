@@ -67,6 +67,20 @@ git push -u origin master
 
 ---
 
+### 6. Change branch 
+
+```bash
+git branch -m old-name new-name
+```
+- Changes the branch name from one branch to another branch 
+
+```bash
+git checkout master
+```
+- Switch to master branch
+
+---
+
 ## Daily Git Commands
 
 ### 1. Check Repository Status
@@ -112,5 +126,3 @@ git push origin <branch_name>
 - Pushes the committed changes in the branch to the remote repository.
 
 ---
-
-
