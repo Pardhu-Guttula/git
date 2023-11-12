@@ -113,9 +113,4 @@ git push origin <branch_name>
 
 ---
 
-Feel free to customize this README based on your project's needs.
 
-```
-
-Adjust placeholders like `<Your Project Name>`, `<Your Name>`, `<your.email@example.com>`, and `<repository_url>` with your actual values. Customize the explanations as needed for your project.
-```
